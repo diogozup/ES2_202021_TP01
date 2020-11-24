@@ -1,0 +1,110 @@
+\-Catarina: -ask codigofontTP01
+\-Javadoc:  -classes/metodos a testar
+------------------------------------------------------------------------------------------
+
+
+
+
+
+
+
+------------------------------------------------------------------------------------------ Fase1
+1- Projeto correr(xico) + rever estrutura codigofonteIntelj->analisarCodigoFonteCatarina
+2- Desenhar funcionamento das classes por alto(grupo)
+3- Definir os metodos para aplicar metodologia de testes caixa preta(grupo)
+------------------------------------------------------------------------------------------ Fase2
+1- Comecar relatorio
+1- Use cases(dividir tarefa por grupo)
+2- Tabelas-> ECP\BVA\TesteCases(Sa-inicialmente)
+------------------------------------------------------------------------------------------ Fase3
+1- Codificação dos testes(Xico-inicialmente)
+------------------------------------------------------------------------------------------ Fase4
+1- RelatoriosTerminar(Grupo)
+\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\
+
+
+
+----------------------------------------------------------------------------------------- GitLab
+0- inscrever grupo no moodle e receber uma letra de identificacao do grupo
+-- -- -- -- -- -- -- -- -- -- -- -- -- -- -- -- -- -- -- -- -- -- -- -- -- -- -- -- -- -- 
+1- criar projeto no gitlab com nome 
+2- criar wiki + gitsheetcheat(git commands[ver o doc do miguel e apenas nao usar o branchs extras])
+3- criar folders
+4- add projeto junit
+\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+################## WIKI ##################### https://gitlab.estg.ipp.pt/8150498/lds_g7_ee/wikis/home/edit #########
+#   **Jogo Space Blaster**
+
+##   **Gameplay**
+
+[Gameplay Video Link](https://youtu.be/v6wmWArQUow)
+
+##   **Perspetiva do produto**
+
+O projeto Space Blaster é um jogo que apresenta um boneco controlado pelo utilizador e que é perseguido por vários inimigos. O utilizador tem de controlar os movimentos do boneco e disparar para eliminar os inimigos. Para que seja possível jogar é necessário o utilizador estar ligado à Internet e a autenticação efetuada.
+
+##   **Funções do produto**
+
+O jogo tem dois diferentes tipos de jogabilidade, jogar no modo um jogador ou com “amigos”. Será possível a criação de salas de espera para entrar no jogo, verificar a classificação do utilizador, consultar a informação da conta de utilizador e editar essa informação. Tem também um chat em que os utilizadores podem interagir entre si. 
+No modo um jogador, o utilizador tem um determinado número de vidas, e sempre que esse número chega a zero o jogo termina. No modo multiplayer, cada utilizador que perde as vidas, o(s) outro(s) mantêm-se e tenta(m) chegar o mais longe possível.
+É possível verificar as classificações nos diferentes modos de jogo.
+
+##   **Ferramentas de desenvolvimento**
+
+![Arquitetura_Projeto_LDS](/uploads/97a95bc030e9561e156d2d5593798804/Arquitetura_Projeto_LDS.jpg)
+
+##   **Requisitos para correr o projeto**
+<p>
+[Manual](https://gitlab.estg.ipp.pt/8150498/lds_g7_ee/blob/master/Documenta%C3%A7%C3%A3o/Manual/Manual.pdf)<p>
+
+##   **Equipa de desenvolvimento**
+
+* Diogo Sá nº 8120336
+* João Pereira nº 8110412
+* José Ribeiro nº 8150498
+* Rui Bessa nº 8150521
+
