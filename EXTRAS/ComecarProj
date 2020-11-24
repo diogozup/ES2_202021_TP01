@@ -1,17 +1,34 @@
-\-Catarina: -ask codigofontTP01
-\-Javadoc:  -classes/metodos a testar
-------------------------------------------------------------------------------------------
+----------------------------------------------------------------------------------------------------------------
+||||||||||||||||||||||||||||||||||||||||||| TODO ES2 01_TP ||||||||||||||||||||||||||||||||||||||||||||||||||||
+----------------------------------------------------------------------------------------------------------------
+
+------------------------------------------------------------------------------------------ PrepFase
+1- Dl proj [NEWFOLDER e dentro BotaoDir: git init | git clone https://github.com/diogozup/ES2_202021_TP01.git)]
+2- Explicar organizacao dos folders
+3- Apresentar conclusao da analise dos 2 entregaveis:   
+    3.1-TestCaseSpecification:
+        3.1.1- Intro(copy\paste miguel)
+        3.1.2- Metodos <<--IMPORTANTE-- analisar problm e em grupo decidir os metodos a testar
+        3.1.3- Posteriormente para CADA METODO temos que elaborar tabelas ECP\BVA e atribuir Respnsveis das mesmas
+    3.2-TestCaseTable(1xTabela TestCases e depois cada tuplo gera uma tabla propria de TestCase)
+4- Nota para xico: Organizacao do proj(display 2xprints) [basicamente nome do main e demo e depois apenas temos classes de teste)
+\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\
+------------------------------------------------------------------------------------------TODO_NOW
+1- Fase1:ponto1
 
 
 
 
 
 
+
+============================================ OVERALL LIFE CYCLE ======================================
 
 ------------------------------------------------------------------------------------------ Fase1
-1- Projeto correr(xico) + rever estrutura codigofonteIntelj->analisarCodigoFonteCatarina
-2- Desenhar funcionamento das classes por alto(grupo)
-3- Definir os metodos para aplicar metodologia de testes caixa preta(grupo)
+1- Defnir em grupo metodos a testar 
+-- -- -- -- -- -- -- -- -- -- -- -- -- -- -- -- -- -- -- -- -- -- -- -- -- -- -- -- -- -- -- -- 
+2- Atribuir owners desses metodos para elaborar tabelas ECP\BVA e depois finalmente tabela TestCases
+3- Elaborar tabelas indiv para cada tuplo
 ------------------------------------------------------------------------------------------ Fase2
 1- Comecar relatorio
 1- Use cases(dividir tarefa por grupo)
